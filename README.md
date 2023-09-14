@@ -42,13 +42,10 @@ We believe in constant growth and are always open to user feedback for further e
 
 We understand that the best way to comprehend the potential of Fridge Rage is to see it in action. Here's a quick demo to illustrate the main features and capabilities of our application.
 
-### Click the image to watch it here:
+### Watch it here:
 
 <div align="center">
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=VIDEO_ID" target="_blank">
-    <img src="https://th.bing.com/th/id/R.6af6fd9c37f0de4abb34ea0fd20acce3?rik=55mqMmrTutVR0Q&pid=ImgRaw&r=0" 
-    alt="Demo Video" width="240" height="180" border="10" />
-  </a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 </div>
 
 **Join us on this exciting journey towards making the world a better place, one recipe at a time. With Fridge Rage, your fridge is a treasure trove waiting to be discovered.**
