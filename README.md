@@ -41,5 +41,14 @@ We believe in constant growth and are always open to user feedback for further e
 5. **Community Building 🤝**: Creating a community within the app where users can store comments, share feedback, and exchange recipes and cooking tips.
 
 ---
+## Demo Video 🎥
 
+We understand that the best way to comprehend the potential of Fridge Rage is to see it in action. Here's a quick demo to illustrate the main features and capabilities of our application.
+
+### Watch it here:
+
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=VIDEO_ID](https://www.youtube.com/watch?v=O0xCgqziGh4)" target="_blank">
+  <img src="http://img.youtube.com/vi/VIDEO_ID/0.jpg" 
+  alt="Demo Video" width="240" height="180" border="10" />
+</a>
 **Join us on this exciting journey towards making the world a better place, one recipe at a time. With Fridge Rage, your fridge is a treasure trove waiting to be discovered.**
