@@ -13,9 +13,6 @@ At Fridge Rage, we have a vision that extends beyond the confines of your kitche
 1. **Reduce Global Food Waste 🗑️**: Every year, millions of tons of food go to waste. Our app strives to cut down this wastage by helping you make the most out of your leftovers.
 
 2. **Elevate Your Cooking Experience 👩‍🍳**: Our aesthetically pleasing interactive interfaces and top-notch user experience aim to make cooking less of a chore and more of an enjoyable activity.
-
-3. **Contribute to Global Food Security 🌾**: We are committed to translating our business success into meaningful societal impact. The profits we generate are reinvested in initiatives aimed at combatting global hunger. With Fridge Rage, you're not just enriching your meals—you're contributing to a world where everyone has access to food.
-
 ---
 
 ## General Implementation 🛠️
@@ -51,4 +48,22 @@ We understand that the best way to comprehend the potential of Fridge Rage is to
   <img src="[[http://img.youtube.com/vi/VIDEO_ID/0.jpg](https://www.youtube.com/watch?v=sB2cNIIyRO8)](https://th.bing.com/th/id/R.6af6fd9c37f0de4abb34ea0fd20acce3?rik=55mqMmrTutVR0Q&pid=ImgRaw&r=0)" 
   alt="Demo Video" width="240" height="180" border="10" />
 </a>
+
+### For GitHub Repository Access:
+
+If you're interested in contributing to the development of Fridge Rage, please reach out for access to our GitHub repository.
+
+📧 Email: [repo-access@fridgerage.com](mailto:repo-access@fridgerage.com)
+
+### For Early Access:
+
+If you'd like to be among the first to experience the innovative features of Fridge Rage, you can request early access by contacting us via email.
+
+📧 Email: [early-access@fridgerage.com](mailto:early-access@fridgerage.com)
+
+### General Inquiries:
+
+For any other questions or information, feel free to email us at:
+
+📧 Email: [info@fridgerage.com](mailto:info@fridgerage.com)
 **Join us on this exciting journey towards making the world a better place, one recipe at a time. With Fridge Rage, your fridge is a treasure trove waiting to be discovered.**
