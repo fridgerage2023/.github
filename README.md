@@ -42,7 +42,7 @@ We believe in constant growth and are always open to user feedback for further e
 
 We understand that the best way to comprehend the potential of Fridge Rage is to see it in action. Here's a quick demo to illustrate the main features and capabilities of our application.
 
-### Watch it here:
+### Click the image to watch it here:
 
 <div align="center">
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=VIDEO_ID" target="_blank">
