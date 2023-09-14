@@ -50,6 +50,7 @@ We understand that the best way to comprehend the potential of Fridge Rage is to
 </a>
 
 **Join us on this exciting journey towards making the world a better place, one recipe at a time. With Fridge Rage, your fridge is a treasure trove waiting to be discovered.**
+
 ---
 ### For GitHub Repository Access:
 
