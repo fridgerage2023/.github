@@ -2,7 +2,7 @@
 
 ## Introduction 📚
 
-**Fridge Rage** is a free software tool designed to revolutionize the way you look at your fridge. Powered by generative AI, Fridge Rage assists busy individuals in transforming their leftover food into innovative and delightful recipes, tailored specifically to personal tastes and preferences.
+**Fridge Rage** is a free software integrated with generative AI helping busy individuals use leftover food as ingredients to generate delightful, healthy, and innovative recipes, tailoring by personal tastes.
 
 ---
 
