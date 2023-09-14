@@ -44,8 +44,8 @@ We understand that the best way to comprehend the potential of Fridge Rage is to
 
 ### Watch it here:
 
-<a href="[[http://www.youtube.com/watch?feature=player_embedded&v=VIDEO_ID](https://www.youtube.com/watch?v=O0xCgqziGh4)](https://www.youtube.com/watch?v=sB2cNIIyRO8)" target="_blank">
-  <img src="[[http://img.youtube.com/vi/VIDEO_ID/0.jpg](https://www.youtube.com/watch?v=sB2cNIIyRO8)](https://th.bing.com/th/id/R.6af6fd9c37f0de4abb34ea0fd20acce3?rik=55mqMmrTutVR0Q&pid=ImgRaw&r=0)" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VIDEO_ID" target="_blank">
+  <img src="https://th.bing.com/th/id/R.6af6fd9c37f0de4abb34ea0fd20acce3?rik=55mqMmrTutVR0Q&pid=ImgRaw&r=0" 
   alt="Demo Video" width="240" height="180" border="10" />
 </a>
 
