@@ -49,21 +49,22 @@ We understand that the best way to comprehend the potential of Fridge Rage is to
   alt="Demo Video" width="240" height="180" border="10" />
 </a>
 
+**Join us on this exciting journey towards making the world a better place, one recipe at a time. With Fridge Rage, your fridge is a treasure trove waiting to be discovered.**
+---
 ### For GitHub Repository Access:
 
 If you're interested in contributing to the development of Fridge Rage, please reach out for access to our GitHub repository.
 
-📧 Email: [repo-access@fridgerage.com](mailto:repo-access@fridgerage.com)
+📧 Email: [fridgerageinfo@gmail.com](mailto:fridgerageinfo@gmail.com)
 
 ### For Early Access:
 
 If you'd like to be among the first to experience the innovative features of Fridge Rage, you can request early access by contacting us via email.
 
-📧 Email: [early-access@fridgerage.com](mailto:early-access@fridgerage.com)
+📧 Email: [fridgerageinfo@gmail.com](mailto:fridgerageinfo@gmail.com)
 
 ### General Inquiries:
 
 For any other questions or information, feel free to email us at:
 
-📧 Email: [info@fridgerage.com](mailto:info@fridgerage.com)
-**Join us on this exciting journey towards making the world a better place, one recipe at a time. With Fridge Rage, your fridge is a treasure trove waiting to be discovered.**
+📧 Email: [fridgerageinfo@gmail.com](mailto:fridgerageinfo@gmail.com)
