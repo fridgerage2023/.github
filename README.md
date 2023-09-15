@@ -44,13 +44,7 @@ We understand that the best way to comprehend the potential of Fridge Rage is to
 
 ### Watch it here:
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=aajyDWWYiDE&t=5s">
-    <img src="https://th.bing.com/th/id/R.6af6fd9c37f0de4abb34ea0fd20acce3?rik=55mqMmrTutVR0Q&pid=ImgRaw&r=0" 
-    alt="Demo Video" width="240" height="180" border="10" />
-  </a>
-</div>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aajyDWWYiDE?si=iOh9EY_AeMDQ41WP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 **Join us on this exciting journey towards making the world a better place, one recipe at a time. With Fridge Rage, your fridge is a treasure trove waiting to be discovered.**
 
 ---
