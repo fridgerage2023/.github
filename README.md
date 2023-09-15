@@ -46,7 +46,7 @@ We understand that the best way to comprehend the potential of Fridge Rage is to
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=aajyDWWYiDE&t=5s">
-    <img src="https://th.bing.com/th/id/R.6af6fd9c37f0de4abb34ea0fd20acce3?rik=55mqMmrTutVR0Q&pid=ImgRaw&r=0" 
+    <img src="https://github.com/fridgerage2023/DEMO_FRIDGERAGE/blob/main/photo.png" 
     alt="Demo Video" width="240" height="180" border="10" />
   </a>
 </div>
